@@ -12,7 +12,7 @@
     <!-- 如果您想更安全，可以取消下面的注释并添加您的内网 IP -->
     <!--
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">192.168.100.3:7023</domain>
+        <domain includeSubdomains="true">192.168.100.3</domain>
         <domain includeSubdomains="true">192.168.1.100</domain>
         <domain includeSubdomains="true">10.0.0.0</domain>
         <domain includeSubdomains="true">myserver</domain>
