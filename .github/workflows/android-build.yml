@@ -52,7 +52,7 @@ jobs:
           if [ -d "public" ]; then
             cp -r public/* www/
           else
-            echo "<html><body>E视界</body></html>" > www/index.html
+            echo "<html><body>OmniBox</body></html>" > www/index.html
           fi
           echo "Created www directory manually as fallback"
 
